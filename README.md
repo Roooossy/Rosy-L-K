@@ -3,7 +3,7 @@
 <p align="center">
 <b>BS in Economics</b> | <b>Minor in Data Science</b> | <b>Drexel University</b> (Anticipated Graduation: 2027)<br/>
 Philadelphia, PA<br/>
-Interested in analytics, business decision-making, and applying data tools to real-world operations.
+Interested in <b>Data Analyst</b> and <b>Business Analyst</b> roles, with a focus on analytics, reporting, and business decision-making.
 </p>
 
 ---
@@ -12,13 +12,13 @@ Interested in analytics, business decision-making, and applying data tools to re
 
 | Focus Areas | Location | Education | Technical Skills |
 |---|---|---|---|
-| Economics, Data Science, Business Analytics | Philadelphia, PA | Drexel University (BS Economics, Minor DS) | Python, Java, SQL |
+| Data Analytics, Business Analytics, Economics | Philadelphia, PA | Drexel University (BS Economics, Minor DS) | Python, Java, SQL |
 
 ---
 
 ## About Me
 
-I’m an Economics student with a Data Science minor at Drexel University. I have professional experience supporting client-facing operations, underwriting communication, billing/payroll processes, and reporting. I’m building my GitHub profile and will be adding projects soon.
+I’m an Economics student with a Data Science minor at Drexel University. I have professional experience supporting client-facing operations, underwriting communication, billing/payroll processes, and reporting. I’m currently building my GitHub profile and will be adding projects soon.
 
 ---
 
@@ -26,17 +26,17 @@ I’m an Economics student with a Data Science minor at Drexel University. I hav
 
 **QM Advance — Account Manager (Oct 2023 – Aug 2025, New York City, NY)**
 - Served as the main point of contact between clients and underwriting teams through final decisions.
-- Supported business owners by gathering business details and funding needs and communicating decisions and feedback.
-- Led targeted outreach and relationship management for 50+ business owners.
+- Gathered business details and funding needs, communicated outcomes, and supported decision-making.
+- Managed outreach and relationship-building with 50+ business owners.
 
 **MNN Homecare — Billing & Payroll Assistance (Jun 2022 – Sep 2023, New York City, NY)**
-- Supported billing/payroll, insurance authorizations, and patient eligibility verification.
-- Prepared monthly authorization and patient service reports; coordinated with insurance companies.
-- Reviewed issued payments and corrected missing/over/under-payments to ensure accurate compensation.
+- Supported billing/payroll operations, insurance authorizations, and patient eligibility verification.
+- Prepared monthly authorization and patient service reports and coordinated with insurance companies.
+- Reviewed issued payments and corrected missing/over/under-payments to improve accuracy.
 
 **University of Idaho — Videographer (Aug 2021 – Dec 2021, Moscow, ID)**
 - Filmed and delivered game/practice footage for coaching review and player development.
-- Uploaded content to Hulu and supported athletics media coverage.
+- Organized and uploaded content for athletics media coverage.
 
 **Subisu — Network Technician (Kathmandu, NP)**
 - Assisted with installation, maintenance, and troubleshooting of network systems.
@@ -62,5 +62,3 @@ Programming I, Programming with Python, Database Concepts, Business Statistics, 
 
 - Email: lk752rosy@gmail.com
 - LinkedIn: www.linkedin.com/in/rosylk
-
-
